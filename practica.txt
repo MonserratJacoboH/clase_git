@@ -1,1 +1,3 @@
 holaa, clase 3
+tema 1. Intro a la web 
+tema 2. terminall git y github
